@@ -1,4 +1,4 @@
-# plain-html - Plain web page template.
+# webpage-template - Plain web page template.
 Includes files:
 - index.html
 - style.css

@@ -3,5 +3,5 @@
 window.onload = exampleFunction;
 
 function exampleFunction(event) {
-    document.title = "Blank template";
+    document.title = "Webpage template";
 }
